@@ -26,10 +26,4 @@ import {nuevoCliente} from './API.js'
         }
         nuevoCliente(cliente); 
     }
-
-
-    
-
-
-
 })();
